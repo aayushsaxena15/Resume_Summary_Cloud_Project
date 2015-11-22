@@ -1,0 +1,10 @@
+﻿				Resume
+
+Name :	Sean Williams
+Email-id :	sean_williams@email.com
+Phone :	9756481235
+Years of Experience :	8 years
+Specialization :	Data Analysis
+CGPA :	9.3
+Education_undergrad :	Bachelors Degree in major Science of Management in Berkeley University, San Diego, CA in 2005
+Education_post_grad :	Masters in University of Berkeley in 2010

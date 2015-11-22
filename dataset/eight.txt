@@ -1,0 +1,9 @@
+﻿				Resume
+Name :	Bob Brown
+Email-id :	bbrown@gmail.com
+Phone :	9785461235
+Years of Experience :	7 years 
+Specialization :	Councelling in Oregon AIDS Hotline
+CGPA :	9.1
+Education_undergrad :	BA Psycology, Shangai, China, 2002
+Education_post_grad :	International TEFL Academy, Chicago, 2010
