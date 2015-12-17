@@ -1,0 +1,11 @@
+{{if 'message' in globals():}}
+<h3>{{=message}}</h3>
+{{pass}}
+{{=grid.element('.web2py_console form')}}
+
+
+<ul>
+{{for row in grid.rows:}}
+    <li>{{=row.email}}</li>
+{{pass}}
+</ul>

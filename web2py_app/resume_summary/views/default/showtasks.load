@@ -1,0 +1,4 @@
+{{if 'message' in globals():}}
+<h3>{{=message}}</h3>
+{{pass}}
+{{=grid}}
